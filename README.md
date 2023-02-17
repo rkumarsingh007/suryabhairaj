@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raj
-- 👀 I’m interested in JAVA, Data Sctuctures & Algorithm, Android, Spring boot, C++ or anything that involve "Mathematics" <3 
+- 👀 I’m interested in JAVA, Python, PHP, Data Sctuctures & Algorithm, Android, Spring boot, C++ or anything that involve "Mathematics" <3 
 - 🌱 I’m currently learning Data Mining 
 - 💞️ I’m looking to collaborate on Anything awesome ;) 
 - 📫 How to reach me [linkedIN](https://www.linkedin.com/in/raj-kumaaar/) 
